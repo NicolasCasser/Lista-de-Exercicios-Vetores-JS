@@ -7,7 +7,7 @@ console.log(numeros);
 
 //Acesse o terceiro elemento do array e o exiba no console:
 console.log("\nAcesse o terceiro elemento do array e o exiba no console:");
-console.log(numeros[3]);
+console.log(numeros[2]);
 
 //Altere o valor do segundo elemento para 10
 console.log("\nAltere o valor do segundo elemento para 10");
